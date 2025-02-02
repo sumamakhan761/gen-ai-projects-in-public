@@ -31,3 +31,6 @@ validators==0.28.1
 youtube_transcript_api
 unstructured
 requests
+tiktoken==0.5.2
+python-dotenv==1.0.1
+duckduckgo-search==5.1.0
