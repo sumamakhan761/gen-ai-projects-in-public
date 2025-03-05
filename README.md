@@ -1,1 +1,1 @@
-# GEN-AI Projects
+# GEN-AI Projects (easy to advanced)
